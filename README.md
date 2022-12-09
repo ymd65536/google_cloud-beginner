@@ -25,6 +25,11 @@ Cloud Run:Googleのフルマネージドサーバレスコンテナサービス
 
 フルマネージドのサーバーレス プラットフォームであらゆる言語（Go、Python、Java、Node.js、.NET、Ruby）で記述されたスケーラブルなコンテナ型アプリを構築してデプロイできます。
 
+### Cloud GPU
+
+機械学習、科学技術計算、3D 描画処理に活用できる Google Cloud 上の高パフォーマンス GPU。
+https://cloud.google.com/gpu?hl=ja
+
 ## ストレージ
 
 ### オブジェクトストレージ
